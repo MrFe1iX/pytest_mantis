@@ -1,1 +1,1 @@
-# pytest_mantis
+# PyMantis
